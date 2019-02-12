@@ -1,0 +1,17 @@
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\TestingWordCount.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\TestingWordCount.pdb
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\WordCounter.exe
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\WordCounter.pdb
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\WordCounter.exe.config
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\obj\Debug\TestingWordCount.csprojAssemblyReference.cache
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\obj\Debug\TestingWordCount.csproj.CoreCompileInputs.cache
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\obj\Debug\TestingWordCount.csproj.CopyComplete
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\obj\Debug\TestingWordCount.dll
+C:\Users\BC8533\source\repos\WordCounter\TestingWordCount\obj\Debug\TestingWordCount.pdb
